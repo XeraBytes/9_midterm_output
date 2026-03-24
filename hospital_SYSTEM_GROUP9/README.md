@@ -41,7 +41,7 @@ hospital_system/
 - A local server (XAMPP, Laragon, or PHP built-in server)
 
 ### 2. Database Setup
-Open your PostgreSQL client (pgAdmin or psql) and run:
+Open PostgreSQL client (pgAdmin or psql) and run:
 ```sql
 CREATE DATABASE hospital_db;
 ```
